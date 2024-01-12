@@ -4,4 +4,4 @@
 
 # Bug report:
 
-[https://docs.google.com/document/d/1Fe8z0fsESN7dYR-5ilna85SRH90gxgEyn1cBEXqsvOw](Google Docs screenshots from JIRA)
+[Google Docs screenshots from JIRA](https://docs.google.com/document/d/1Fe8z0fsESN7dYR-5ilna85SRH90gxgEyn1cBEXqsvOw)
