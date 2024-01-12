@@ -1,6 +1,6 @@
 # Test-case:
 
-[https://docs.google.com/spreadsheets/d/1k_Po6dV6cFm9j-lJ-cf5BJYUyeavDe9KMYFBbnPbLS8](Google Docs)
+[Google Docs](https://docs.google.com/spreadsheets/d/1k_Po6dV6cFm9j-lJ-cf5BJYUyeavDe9KMYFBbnPbLS8)
 
 # Bug report:
 
