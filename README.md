@@ -6,8 +6,9 @@
 
 # Bag report:
 
-[screenshots from JIRA](https://docs.google.com/document/d/1Fe8z0fsESN7dYR-5ilna85SRH90gxgEyn1cBEXqsvOw)
-[google docs](https://docs.google.com/spreadsheets/d/1AA4NISW0HwWyv1GKML6XqkKDPHn8u9Vj5bzRxhRZIfU)
+[Screenshots from JIRA](https://docs.google.com/document/d/1Fe8z0fsESN7dYR-5ilna85SRH90gxgEyn1cBEXqsvOw)
+
+[Google docs](https://docs.google.com/spreadsheets/d/1AA4NISW0HwWyv1GKML6XqkKDPHn8u9Vj5bzRxhRZIfU)
 
 # Сheck list
 
