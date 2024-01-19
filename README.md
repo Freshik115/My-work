@@ -1,7 +1,8 @@
 # Test-case:
 
-[1](https://docs.google.com/spreadsheets/d/18BvWGfYhj_hXI6mi_i7XZJaaFFL01D_bVvbUaog0tQU)
-[2](https://docs.google.com/spreadsheets/d/1D6y8lzIo8azrKeDb9Xo-XiYZGa9E_HmcRBAEkqU0k2M)
+[Case 1](https://docs.google.com/spreadsheets/d/18BvWGfYhj_hXI6mi_i7XZJaaFFL01D_bVvbUaog0tQU)
+
+[Case 2](https://docs.google.com/spreadsheets/d/1D6y8lzIo8azrKeDb9Xo-XiYZGa9E_HmcRBAEkqU0k2M)
 
 # Bag report:
 
@@ -10,4 +11,4 @@
 
 # Сheck list
 
-[1](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
+[List 1](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
