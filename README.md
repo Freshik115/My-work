@@ -12,12 +12,22 @@
 
 # Сheck list
 
-[Чек лист интеграционного тестирования](https://docs.google.com/spreadsheets/d/1f0yLDLDfrDUtgQOG0lb1UjQszwzZEPOGngpacBDODaQ)
+[Чек лист GUI тестирования](https://docs.google.com/spreadsheets/d/1t36BWqmcU1_sHMRRxqyzsEeOp9nN_Uk_FqHCZmlH9Fg)
 
-[Чек лист регрессионого тестирования](https://docs.google.com/spreadsheets/d/1YZddnhORbiE2N5VcHpSfDDLR46PVQhaqN6D-5Ryru-s)
+[Чек лист Нефункционального тестирования](https://docs.google.com/spreadsheets/d/1vPHcStH5j6OtXHgwLr4XkNt_xztkgUCVEAArlGM7NtQ)
+
+[Чек лист API тестирования](https://docs.google.com/spreadsheets/d/170KzTHFoUEku8Hg_mS5Yo0tEBbjRggiVbCMp9XxqFAQ)
+
+[Чек лист Функционального тестирования]()
+
+[Чек лист Дымового тестирования](https://docs.google.com/spreadsheets/d/1qZp9WlUE20zEujbEOM6wgEwRpAI2CNm-LbjTC7o5paE)
+
+[Чек лист Интеграционного тестирования](https://docs.google.com/spreadsheets/d/1f0yLDLDfrDUtgQOG0lb1UjQszwzZEPOGngpacBDODaQ)
+
+[Чек лист Регрессионого тестирования](https://docs.google.com/spreadsheets/d/1YZddnhORbiE2N5VcHpSfDDLR46PVQhaqN6D-5Ryru-s)
 
 [Чек лист HENDERSON](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
 
-[Чек лист авторизации](https://docs.google.com/spreadsheets/d/1qucpiv5hGT-wWQe05almmT4u1ncvxuRPgD7VGAxq1uY)
+[Чек лист Авторизации](https://docs.google.com/spreadsheets/d/1qucpiv5hGT-wWQe05almmT4u1ncvxuRPgD7VGAxq1uY)
 
-[Чек лист поиска](https://docs.google.com/spreadsheets/d/1ufWv8XAQgHj3igGLn8pmdoQRpXXxZqaPSc82DK08yG0)
+[Чек лист Поиска](https://docs.google.com/spreadsheets/d/1ufWv8XAQgHj3igGLn8pmdoQRpXXxZqaPSc82DK08yG0)
