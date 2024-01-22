@@ -12,6 +12,8 @@
 
 # Сheck list
 
-[Специальный чек лист](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
+[Чек лист HENDERSON](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
 
-[Универсальный чек лист](https://docs.google.com/spreadsheets/d/1qucpiv5hGT-wWQe05almmT4u1ncvxuRPgD7VGAxq1uY)
+[Чек лист авторизации](https://docs.google.com/spreadsheets/d/1qucpiv5hGT-wWQe05almmT4u1ncvxuRPgD7VGAxq1uY)
+
+[Чек лист поиска](https://docs.google.com/spreadsheets/d/1ufWv8XAQgHj3igGLn8pmdoQRpXXxZqaPSc82DK08yG0)
