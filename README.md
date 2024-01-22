@@ -26,7 +26,7 @@
 
 [Чек лист Регрессионого тестирования](https://docs.google.com/spreadsheets/d/1YZddnhORbiE2N5VcHpSfDDLR46PVQhaqN6D-5Ryru-s)
 
-[Чек лист HENDERSON](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
+[Чек лист HENDERSON ЛК](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
 
 [Чек лист Авторизации](https://docs.google.com/spreadsheets/d/1qucpiv5hGT-wWQe05almmT4u1ncvxuRPgD7VGAxq1uY)
 
