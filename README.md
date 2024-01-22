@@ -12,6 +12,10 @@
 
 # Сheck list
 
+[Чек лист интеграционного тестирования](https://docs.google.com/spreadsheets/d/1f0yLDLDfrDUtgQOG0lb1UjQszwzZEPOGngpacBDODaQ)
+
+[Чек лист регрессионого тестирования](https://docs.google.com/spreadsheets/d/1YZddnhORbiE2N5VcHpSfDDLR46PVQhaqN6D-5Ryru-s)
+
 [Чек лист HENDERSON](https://docs.google.com/spreadsheets/d/14DbdqBuz2pDzBBwp2p8oFNy-VkH1lOrOvqq7XusfmUI)
 
 [Чек лист авторизации](https://docs.google.com/spreadsheets/d/1qucpiv5hGT-wWQe05almmT4u1ncvxuRPgD7VGAxq1uY)
