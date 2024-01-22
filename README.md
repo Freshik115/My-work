@@ -4,7 +4,7 @@
 
 [Case 2](https://docs.google.com/spreadsheets/d/1D6y8lzIo8azrKeDb9Xo-XiYZGa9E_HmcRBAEkqU0k2M)
 
-# Bag report:
+# Bug report:
 
 [Screenshots from JIRA](https://docs.google.com/document/d/1Fe8z0fsESN7dYR-5ilna85SRH90gxgEyn1cBEXqsvOw)
 
